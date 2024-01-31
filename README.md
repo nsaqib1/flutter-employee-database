@@ -1,12 +1,5 @@
 # Employee Database App
 
-## Architecture
-### Clean Architecture
-
-## State Management
-### Bloc
-
-
 ## Screenshots
 
 <img src="screenshots/1.jpg" width ="200">&nbsp;&nbsp;&nbsp;&nbsp;
